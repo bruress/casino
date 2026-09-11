@@ -1,0 +1,19 @@
+{
+  "stakes": [50, 150, 300, 600],
+  "redLevels": 12,
+  "greenLevels": 9,
+  "redRisk": 1.25,
+  "greenRisk": 0.92,
+  "minCrashMultiplier": 1.25,
+  "maxMultiplier": 8.0,
+  "crashAlpha": 1.6,
+  "redGrowthPerSecond": 0.46,
+  "greenGrowthPerSecond": 0.34,
+  "multiplierPerLevel": 0.45,
+  "pointsPerLevel": 25,
+  "pointsCashoutBonus": 50,
+  "pointsBoosterBonus": 75,
+  "minWinOfferAmount": 100,
+  "popupTimeoutSeconds": 10,
+  "fixedSeed": ""
+}
